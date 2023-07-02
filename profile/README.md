@@ -33,7 +33,7 @@
 
 <h3>Integrantes do Projeto</h3>
 
-<img width=100px height=150px src="https://github.com/EcollusDemoday/.github/blob/main/img/imgLuana.png"/>
+<img width=100% src="https://github.com/EcollusDemoday/.github/blob/main/img/imgLuana.png"/>
 <p align="center">Luana Marques - Product Owner</p>
 
 </div>
