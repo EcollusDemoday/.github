@@ -13,7 +13,13 @@
 
 <div align="right">
 
-<img width=230px height=350px src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_blooming_re_2kc4%20(1).svg"/>
+<img width=330px height=450px src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_blooming_re_2kc4%20(1).svg"/>
+
+</div>
+
+<div align="left">
+
+<img width=330px height=450px src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_nature_benefits_re_kk70.svg"/>
 
 </div>
 
