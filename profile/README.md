@@ -23,6 +23,12 @@
 
 </div>
 
+<div align="right">
+
+<img width=330px height=450px src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_friendship_mni7.svg"/>
+
+</div>
+
 <p align="center">Redes sociais</p>
 <p align="center">
 <a href="https://linkedin.com/in/ecollus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ecollus" height="30" width="40" /></a>
