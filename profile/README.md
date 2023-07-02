@@ -23,5 +23,6 @@
 <img align="center" padding="5px" src="https://skills.thijs.gg/icons?i=html,css,js,java,figma,spring,mysql"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54C286&height=120&section=footer"/>
+<img width=100% src="https://lottiefiles.com/130892-plantix-loader-logo-animation"/>
 
 </div>
