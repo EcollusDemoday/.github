@@ -16,3 +16,4 @@
 <p align="center">Linguagens utilizadas no projeto</p>
 [![Linguagens Utilizadas](https://skills.thijs.gg/icons?i=html,css,js,java,figma,spring,mysql)](https://skills.thijs.gg)
 [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,figma,php,mysql)](https://skills.thijs.gg)
+<img align="center" src="https://skills.thijs.gg/icons?i=html,css,js,java,figma,spring,mysql"/>
