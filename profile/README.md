@@ -33,10 +33,26 @@
 
 <h3>Integrantes do Projeto</h3>
 
-<img width=100% src="https://github.com/EcollusDemoday/.github/blob/main/img/imgLuana.png"/>
+<img width=220px height=200px src="https://github.com/EcollusDemoday/.github/blob/main/img/imgLuana.png"/>
 <p align="center">Luana Marques - Product Owner</p>
 
+<img width=200px height=200px src="https://github.com/EcollusDemoday/.github/blob/main/img/imgAlanis.png"/>
+<p align="center">Alanis Ribeiro - Scrum Master</p>
+
 </div>
+
+<h3 align="center">Equipe da Ecollus!</h3>
+    <br>
+	<div align="center">
+		<a href="https://www.linkedin.com/in/luanamarques2023/" target="_blank"><img src="https://github.com/EcollusDemoday/.github/blob/main/img/imgLuana.png" width="200px">
+        <a href="https://www.linkedin.com/in/alanis-cristina/" target="_blank"><img src="https://github.com/EcollusDemoday/.github/blob/main/img/imgAlanis.png" width="200px">
+        <a href="https://www.linkedin.com/in/matheus-canesso-bbbb65202/" target="_blank"><img src="https://github.com/EcollusDemoday/.github/blob/main/img/imgMatheus.png" width="200px">
+        <a href="https://www.linkedin.com/in/cavalcantidev/" target="_blank"><img src="https://github.com/EcollusDemoday/.github/blob/main/img/imgMurilo.png" width="200px">
+        <br>
+        <a href="https://www.linkedin.com/in/giovanna-lacerdadev/" target="_blank"><img src="https://github.com/EcollusDemoday/.github/blob/main/img/imgGiovanna.png" width="200px">
+        <a href="https://www.linkedin.com/in/leticia-astorga/" target="_blank"><img src="https://github.com/EcollusDemoday/.github/blob/main/img/imgLeticia.png" width="200px">
+        <a href="https://www.linkedin.com/in/caio7campos/" target="_blank"><img src="https://github.com/EcollusDemoday/.github/blob/main/img/imgCaio.png" width="200px">
+	
 
 <p align="center">Redes sociais</p>
 <p align="center">
