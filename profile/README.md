@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?align=center&font=Fira+Code&size=22&pause=500&color=268815&width=435&lines=Ol%C3%A1%2C+bem+vindo(a)+a+Ecollus!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=268815&size=35&center=true&vCenter=true&width=1000&lines=Olá,+bem+vindo(a)+á+Ecollus!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=268815&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo(a)+a+Ecollus!;)](https://git.io/typing-svg)
 
 ![Logo](https://github.com/EcollusDemoday/.github/blob/main/img/Logo%20-%20Ecollus%20-%20Branco.png)
 
