@@ -11,7 +11,7 @@
 
 <h3 align="center">"Cuide da sua beleza, cuidando do mundo!"</h3>
 
-<div align="center">
+<div align="right">
 
 <img width=230px height=350px src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_blooming_re_2kc4%20(1).svg"/>
 
