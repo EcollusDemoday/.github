@@ -24,6 +24,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=54C286&height=120&section=footer"/>
 
-<img src="https://lottiefiles.com/130892-plantix-loader-logo-animation"/>
-
 </div>
