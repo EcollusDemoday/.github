@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=268815&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo(a)+a+Ecollus!;)](https://git.io/typing-svg)
 
-![Logo](https://github.com/EcollusDemoday/.github/blob/main/img/Logo%20-%20Ecollus%20-%20Branco.png)
+<img width=250px height=200px src="https://github.com/EcollusDemoday/.github/blob/main/img/Logo%20-%20Ecollus%20-%20Branco.png"/>
 
 <h3 align="center">"Cuide da sua beleza, cuidando do mundo!"</h3>
 
@@ -14,6 +14,4 @@
 </p>
 
 <p align="center">Linguagens utilizadas no projeto</p>
-[![Linguagens Utilizadas](https://skills.thijs.gg/icons?i=html,css,js,java,figma,spring,mysql)](https://skills.thijs.gg)
-[![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,bootstrap,figma,php,mysql)](https://skills.thijs.gg)
 <img align="center" src="https://skills.thijs.gg/icons?i=html,css,js,java,figma,spring,mysql"/>
