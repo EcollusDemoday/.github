@@ -29,18 +29,6 @@
 
 </div>
 
-<div align="center">
-
-<h3>Integrantes do Projeto</h3>
-
-<img width=220px height=200px src="https://github.com/EcollusDemoday/.github/blob/main/img/imgLuana.png"/>
-<p align="center">Luana Marques - Product Owner</p>
-
-<img width=200px height=200px src="https://github.com/EcollusDemoday/.github/blob/main/img/imgAlanis.png"/>
-<p align="center">Alanis Ribeiro - Scrum Master</p>
-
-</div>
-
 <h3 align="center">Equipe da Ecollus!</h3>
     <br>
 	<div align="center">
