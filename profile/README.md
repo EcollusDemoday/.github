@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?align=center&font=Fira+Code&size=22&pause=500&color=268815&width=435&lines=Ol%C3%A1%2C+bem+vindo(a)+a+Ecollus!?align="center")](https://git.io/typing-svg)
 
-![Logo](https://github.com/EcollusDemoday/EcollusDemoday/blob/main/img/Logo%20-%20Ecollus%20-%20Branco.png?&width=435)
+![Logo](https://github.com/EcollusDemoday/.github/blob/main/img/Logo%20-%20Ecollus%20-%20Branco.png)
 
 <h3 align="center">"Cuide da sua beleza, cuidando do mundo!"</h3>
 
