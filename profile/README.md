@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?align=center&font=Fira+Code&size=22&pause=500&color=268815&width=435&lines=Ol%C3%A1%2C+bem+vindo(a)+a+Ecollus!?align="center")](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?align=center&font=Fira+Code&size=22&pause=500&color=268815&width=435&lines=Ol%C3%A1%2C+bem+vindo(a)+a+Ecollus!)](https://git.io/typing-svg)
 
 ![Logo](https://github.com/EcollusDemoday/.github/blob/main/img/Logo%20-%20Ecollus%20-%20Branco.png)
 
