@@ -14,4 +14,4 @@
 </p>
 
 <p align="center">Linguagens utilizadas no projeto</p>
-[![Linguagens utilizadas](https://skills.thijs.gg/icons?i=html,css,js,java,figma,spring,mysql)](https://skills.thijs.gg)
+[![Linguagens Utilizadas](https://skills.thijs.gg/icons?i=html,css,js,java,figma,spring,mysql)](https://skills.thijs.gg)
