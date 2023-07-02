@@ -3,7 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=268815&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo(a)+a+Ecollus!;)](https://git.io/typing-svg)
 
+<div align="center">
+
 <img align="center" width=530px height=300px src="https://github.com/EcollusDemoday/.github/blob/main/img/Logo%20-%20Ecollus%20-%20Branco.png"/>
+
+</div>
 
 <h3 align="center">"Cuide da sua beleza, cuidando do mundo!"</h3>
 
