@@ -13,7 +13,7 @@
 
 <div align="center">
 
-<img src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_blooming_re_2kc4%20(1).svg"/>
+<img width=230px height=350px src="https://github.com/EcollusDemoday/.github/blob/main/img/undraw_blooming_re_2kc4%20(1).svg"/>
 
 </div>
 
